@@ -21,7 +21,7 @@ const optionsArr = [
   },
   {
     options: ["a baby", "a future terror", "Chloe & Nicks Baby"],
-    img: "../assets/IMG_20220827_134212.jpg",
+    img: "./assets/IMG_20220827_134212.jpg",
   },
 ];
 
